@@ -1,0 +1,41 @@
+_repo: Too-RichA-Romance_34995
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wister, A. L. (Annis Lee)
+    aliases:
+    - Wister, A.L.
+    - Wister, Mrs. A. L.
+    - Furness, Annis Lee
+    - Wister, Annis Lee
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '37305'
+    url: http://www.gutenberg.org/2009/agents/37305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streckfuss, Adolf
+    aliases:
+    - Carl, Adolph
+    - Streckfuss, Adolph
+    birthdate: 1823
+    deathdate: 1895
+    gutenberg_agent_id: '37304'
+    url: http://www.gutenberg.org/2009/agents/37304
+description: ''
+gutenberg_issued: '2011-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: 'Too Rich: A Romance'
+url: http://www.gutenberg.org/ebooks/34995
